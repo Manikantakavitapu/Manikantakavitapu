@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manikantakavitapu
-- 👀 I’m interested in desing and developing the web pages
+- 👀 I’m interested in designing and developing the web pages
 - 🌱 I’m currently pursuing masters in computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
