@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manikantakavitapu
 - 👀 I’m interested in designing and developing the web pages
-- 🌱 I’m currently pursuing masters in computer science
+- 🌱 I’m currently pursuing masters in computer science at University of Missouri Kanasas City.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
