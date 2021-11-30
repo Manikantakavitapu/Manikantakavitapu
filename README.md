@@ -5,7 +5,9 @@
 - 📫 You can me reach me on linekdIn 
 - https://www.linkedin.com/in/manikanta-kavitapu-389293107/
 - Languages
-- HTML, CSS, javascript, jquery, Bootstrap, SCSS, LESS, Angular, Gulp.
+- HTML, CSS, Bootstrap, SCSS, LESS, javascript, jquery, Angular, Gulp.
+- Tools
+- Visual studio code, git, Jira.
 
 <!---
 Manikantakavitapu/Manikantakavitapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
