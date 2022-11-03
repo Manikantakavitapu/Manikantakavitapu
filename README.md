@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing and developing the web pages
 - 💞️ I’m looking to collaborate on
 - 📫 You can me reach me on linekdIn 
-- https://www.linkedin.com/in/manikanta-kavitapu-389293107/
+- https://www.linkedin.com/in/manikanta-kavitapu-8ab515253/
 - Languages
 - HTML, CSS, Bootstrap, SCSS, LESS, javascript, jquery, Angular, Gulp.
 - Tools
