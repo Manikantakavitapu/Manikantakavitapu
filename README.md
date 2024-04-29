@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Manikanta kavitapu
 - 👀 I’m interested in designing and developing the web pages
 - 💞️ I’m looking to collaborate on
-- 📫 You can me reach me on linekdIn 
+- 📫 You can reach me on LinkedIn 
 - https://www.linkedin.com/in/manikanta-kavitapu-8ab515253/
 - Languages
-- HTML, CSS, Bootstrap, SCSS, LESS, javascript, jquery, Angular, Gulp.
+- HTML, CSS, Bootstrap, SCSS, LESS, javascript, jQuery, Angular, Gulp, Grunt, Java, Spring Boot, Microservices, Sql, NoSQL databases, and AWS.
 - Tools
-- Visual studio code, git, Jira.
+- Visual Studio code, git, Jira, Eclipse, Intillej.
 
 <!---
 Manikantakavitapu/Manikantakavitapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
