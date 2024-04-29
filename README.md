@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manikanta kavitapu
-- 👀 I’m interested in designing and developing the web pages
+- 👀 I’m interested in designing and developing web Applications.
 - 💞️ I’m looking to collaborate on
 - 📫 You can reach me on LinkedIn 
 - https://www.linkedin.com/in/manikanta-kavitapu-8ab515253/
